@@ -15,20 +15,20 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• OWNER SANAGAT BAIK DAN COOL
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Zyko-MD
-${htjava} *♂️ Gender* : Boys
-${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 18 🥶
-${htjava} *🧮 Kelas* : private
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
+${htjava} *💌 Nama* : yudipermana 
+${htjava} *♂️ Gender* : Lakik
+${htjava} *🕋 Agama* : Privasi
+${htjava} *⏰ Tanggal lahir* : 14 sep 2009
+${htjava} *🎨 Umur* : 13 🥶
+${htjava} *🧮 Kelas* : 7.11
+${htjava} *🧩 Hobby* : MEMBUAT BOTS "MODDER BOTS / SERVER"
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Sukabumi
+${htjava} *🗺️ Tinggal* : Denpasar
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 ${htjava} *💌 TY:* ${syt}
